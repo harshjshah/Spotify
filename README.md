@@ -24,6 +24,6 @@ npm run preview
 - HTML5 audio keeps playing even if the user switches browser tabs (no auto-pause is triggered by page visibility changes).
 
 
-And here's the final UI!
+## Final UI
 
 ![alt text](Snap.png)
