@@ -27,3 +27,8 @@ npm run preview
 ## Final UI
 
 ![alt text](Snap.png)
+<img width="206" height="370" alt="image" src="https://github.com/user-attachments/assets/08d2de52-8f9c-4293-b50e-4cd16fc9e349" />      <img width="206" height="371" alt="image" src="https://github.com/user-attachments/assets/885727e7-247d-4c2e-b768-b431baa4e4be" />
+
+
+
+
