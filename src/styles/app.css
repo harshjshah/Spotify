@@ -1586,6 +1586,7 @@
   .player .meta .artist {
     margin-bottom: 30px;
     font-size: 18px;
+    text-align: left;
   }
 
   .player .art {
@@ -1753,6 +1754,7 @@
   .player .meta .artist {
     margin-bottom: 25px;
     font-size: 14px;
+    text-align: left;
   }
 
   .player .art {
@@ -1919,6 +1921,7 @@
   .player .meta .artist {
     margin-bottom: 15px;
     font-size: 10px;
+    text-align: left;
   }
 
   .player .art {
